@@ -1,4 +1,4 @@
-# IPconfig
+# IP config
 
 
 IP config est un toolkit qui permet de tracker les sites web.
